@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "immutable": "^3.8.2",
+    "immutable": "^4.0.0",
     "vue": "^2.6.12",
     "vuex": "^3.6.0"
   },
